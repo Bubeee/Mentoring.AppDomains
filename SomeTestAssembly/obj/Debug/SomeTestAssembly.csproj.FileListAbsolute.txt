@@ -1,0 +1,4 @@
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\SomeTestAssembly\bin\Debug\SomeTestAssembly.dll
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\SomeTestAssembly\bin\Debug\SomeTestAssembly.pdb
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\SomeTestAssembly\obj\Debug\SomeTestAssembly.dll
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\SomeTestAssembly\obj\Debug\SomeTestAssembly.pdb

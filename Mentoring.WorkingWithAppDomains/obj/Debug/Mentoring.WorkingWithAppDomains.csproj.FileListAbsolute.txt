@@ -1,0 +1,8 @@
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\bin\Debug\Mentoring.WorkingWithAppDomains.exe.config
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\obj\Debug\Mentoring.WorkingWithAppDomains.csprojResolveAssemblyReference.cache
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\bin\Debug\Mentoring.WorkingWithAppDomains.exe
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\bin\Debug\Mentoring.WorkingWithAppDomains.pdb
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\obj\Debug\Mentoring.WorkingWithAppDomains.exe
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\obj\Debug\Mentoring.WorkingWithAppDomains.pdb
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\bin\Debug\SomeTestAssembly.dll
+D:\Mentoring\MyTasks\Mentoring.WorkingWithAppDomains\Mentoring.WorkingWithAppDomains\bin\Debug\SomeTestAssembly.pdb
